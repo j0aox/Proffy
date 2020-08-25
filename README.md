@@ -28,6 +28,9 @@ git clone https://github.com/j0aox/proffy.git
 # Entrar no diretório 
 cd proffy
 
+# Instalar Dependências
+npm install
+
 # Executar o servidor
 npm run dev
 ```
